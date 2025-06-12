@@ -92,6 +92,7 @@ By leveraging this dataset, we can extract valuable insights to enhance decision
               In conclusion, the Olist Store analytics project provided valuable insights into the performance of the company’s Various branches and account executives. Through the use of Excel, Power BI, Tableau and SQL we were able to Develop a comprehensive branch dashboard that allowed us to identify key areas for improvement
 
 Dashboard link : https://github.com/sinemarcor/E-Commerce-Olist-Store/blob/main/PBI%20Dashboard%20Image.png
+Dataset link : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 
 
