@@ -89,7 +89,9 @@ By leveraging this dataset, we can extract valuable insights to enhance decision
    5.Top Revenue City: Sao Paulo leads in payments, aligning with its status as Brazil’s most populated city, reinforcing its strategic importance                       for sales and marketing efforts.
 
 **Conclusion**
-              In conclusion, the Olist Store analytics project provided valuable insights into the performance of the company’s Various branches and               account executives. Through the use of Excel, Power BI, Tableau and SQL we were able to Develop a comprehensive branch dashboard that                allowed us to identify key areas for improvement.
+              In conclusion, the Olist Store analytics project provided valuable insights into the performance of the company’s Various branches and               account executives. Through the use of Excel, Power BI, Tableau and SQL we were able to Develop a comprehensive branch dashboard that                allowed us to identify key areas for improvement
+
+Dashboard link : https://github.com/sinemarcor/E-Commerce-Olist-Store/blob/main/PBI%20Dashboard%20Image.png
 
 
 
