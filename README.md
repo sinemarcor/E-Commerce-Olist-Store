@@ -33,7 +33,7 @@ By leveraging this dataset, we can extract valuable insights to enhance decision
     Payment Distribution:
                 Weekdays: $12.40M (77.44%)
                 Weekends: $3.61M (22.56%)
-    Conclusion : Customers are significantly more active on weekdays than weekends, indicating that marketing and promotional strategies should focus                  on weekday engagement.
+    Conclusion : Customers are significantly more active on weekdays than weekends, indicating that marketing and promotional strategies should focus on weekday engagement.
 
 **KPI 2: Orders By Review Score 5 And Payment Type **
     This analysis focuses on orders with a review score of 5 and the preferred mode of payment.
@@ -47,7 +47,7 @@ By leveraging this dataset, we can extract valuable insights to enhance decision
                 3.Voucher: 4.82% (2,915 orders)
                 4.Debit Card: 1.57% (950 orders)
                 5.Average Review Score: 4.0
-    Conclusion: Customers who give high ratings (5 stars) predominantly use credit cards, indicating a smoother payment experience. Strategies can be                 developed to enhance adoption of other payment methods.
+    Conclusion: Customers who give high ratings (5 stars) predominantly use credit cards, indicating a smoother payment experience. Strategies can be developed to enhance adoption of other payment methods.
 
 **KPI 3: Average order delivery days for pet shop**
     We analyzed the average shipping time for different product categories, focusing on Pet Shop orders.
@@ -57,7 +57,7 @@ By leveraging this dataset, we can extract valuable insights to enhance decision
                Electronics: 13 days
                Overall Average: 13 days
     Conclusion:
-               The Pet Shop category has the fastest delivery time, taking 11 days on average, which is below the overall average. In comparison,                    categories like Furniture Bedroom and Electronics take longer to deliver.
+               The Pet Shop category has the fastest delivery time, taking 11 days on average, which is below the overall average. In comparison, categories like Furniture Bedroom and Electronics take longer to deliver.
 
 **KPI 4:Average Payment value and average price for Sao Paulo**
     This KPI focuses on the analysis of the average payment value and average product price for Sao Paulo City.
@@ -66,7 +66,7 @@ By leveraging this dataset, we can extract valuable insights to enhance decision
                Average Price: 107.53
                Customer Base in Sao Paulo: 16,337 customers
     Conclusion:
-               Both total price and payment values in Sao Paulo have seen a significant increase over the years, indicating growing customer                         engagement and higher transaction volumes.
+               Both total price and payment values in Sao Paulo have seen a significant increase over the years, indicating growing customer engagement and higher transaction volumes.
 
 **KPI 5:Relationship between shipping days vs review score**
     This KPI analyzes the relationship between shipping days and review scores given by customers.
@@ -79,19 +79,20 @@ By leveraging this dataset, we can extract valuable insights to enhance decision
                Highest Review Score (5): Orders shipped within 11 days
                Lowest Review Score (1): Orders shipped within 20 days
    Conclusion:
-              Customers tend to rate products lower when shipping times are longer, emphasizing the importance of timely delivery for higher customer               satisfaction.
+              Customers tend to rate products lower when shipping times are longer, emphasizing the importance of timely delivery for higher customer satisfaction.
 
 **Recommendations & Insights**
-   1.Sales Trends: Weekday sales outperform weekend sales, indicating an opportunity to boost weekend engagement through targeted promotions,                            discounts, and advertising campaigns.
-   2.Payment Preferences: Credit cards dominate as the preferred payment method (74.62%). To drive adoption of other payment methods, Olist Store can                    introduce exclusive discounts and offers.
-   3.Delivery Impact on Reviews: The average delivery time is 13 days, while the estimated delivery time is 24 days—a factor influencing customer                        review scores. Optimizing logistics can enhance customer satisfaction.
+   1.Sales Trends: Weekday sales outperform weekend sales, indicating an opportunity to boost weekend engagement through targeted promotions, discounts, and advertising campaigns.
+   2.Payment Preferences: Credit cards dominate as the preferred payment method (74.62%). To drive adoption of other payment methods, Olist Store can introduce exclusive discounts and offers.
+   3.Delivery Impact on Reviews: The average delivery time is 13 days, while the estimated delivery time is 24 days—a factor influencing customer review scores. Optimizing logistics can enhance customer satisfaction.
    4.Seller Growth: A steady rise in sellers, from 130 in 2016 to 1.7K in 2017 and 2.3K in 2018, highlights a growing marketplace.
-   5.Top Revenue City: Sao Paulo leads in payments, aligning with its status as Brazil’s most populated city, reinforcing its strategic importance                       for sales and marketing efforts.
+   5.Top Revenue City: Sao Paulo leads in payments, aligning with its status as Brazil’s most populated city, reinforcing its strategic importance for sales and marketing efforts.
 
 **Conclusion**
-              In conclusion, the Olist Store analytics project provided valuable insights into the performance of the company’s Various branches and               account executives. Through the use of Excel, Power BI, Tableau and SQL we were able to Develop a comprehensive branch dashboard that                allowed us to identify key areas for improvement
+              In conclusion, the Olist Store analytics project provided valuable insights into the performance of the company’s Various branches and account executives. Through the use of Excel, Power BI, Tableau and SQL we were able to Develop a comprehensive branch dashboard that allowed us to identify key areas for improvement
 
 Dashboard link : https://github.com/sinemarcor/E-Commerce-Olist-Store/blob/main/PBI%20Dashboard%20Image.png
+
 
 
 
